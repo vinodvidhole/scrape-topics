@@ -7,3 +7,5 @@ if __name__ == "__main__":
     print("arguments = ", sys.argv)
 
 print("Code finish")
+print("Code finish")
+print("Code finish")
